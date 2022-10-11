@@ -1,3 +1,3 @@
 # A.S
 Android Studio
-![screenshot] (screen.png)
+![screenshot] (image.png)
