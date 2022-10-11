@@ -1,4 +1,3 @@
 # A.S
-Android Studio
-
+Android Studio lab 1
 ![screenshot] (image.png)
